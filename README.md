@@ -1,0 +1,1 @@
+# OmniAuth Shoplo strategy
